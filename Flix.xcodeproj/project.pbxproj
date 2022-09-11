@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		635B7A6C28CE920A0018B082 /* MoviesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 635B7A6B28CE920A0018B082 /* MoviesViewController.swift */; };
 		63EA0D8E28CBFBF500301C50 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63EA0D8D28CBFBF500301C50 /* AppDelegate.swift */; };
 		63EA0D9028CBFBF500301C50 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63EA0D8F28CBFBF500301C50 /* SceneDelegate.swift */; };
 		63EA0D9228CBFBF500301C50 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63EA0D9128CBFBF500301C50 /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		635B7A6B28CE920A0018B082 /* MoviesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
 		63EA0D8A28CBFBF500301C50 /* Flix.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Flix.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		63EA0D8D28CBFBF500301C50 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		63EA0D8F28CBFBF500301C50 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				63EA0D9628CBFC0400301C50 /* Assets.xcassets */,
 				63EA0D9828CBFC0400301C50 /* LaunchScreen.storyboard */,
 				63EA0D9B28CBFC0400301C50 /* Info.plist */,
+				635B7A6B28CE920A0018B082 /* MoviesViewController.swift */,
 			);
 			path = Flix;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				63EA0D9228CBFBF500301C50 /* ViewController.swift in Sources */,
 				63EA0D8E28CBFBF500301C50 /* AppDelegate.swift in Sources */,
 				63EA0D9028CBFBF500301C50 /* SceneDelegate.swift in Sources */,
+				635B7A6C28CE920A0018B082 /* MoviesViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
